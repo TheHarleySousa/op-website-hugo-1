@@ -55,6 +55,7 @@ Ao adicionar o seu nome, por favor observe:
 | Giuseppe Varriale              | pepe.saoleo@gmail.com                 | https://github.com/GiuseppeVarriale   |
 | Gustavo de Almeida             | gustavofcma@gmail.com                 | https://github.com/gustavofcma        |
 | Hamon de Córdova Jorge         | hamoncj@gmail.com                     | https://github.com/hamonCordova       |
+| Harley de Sousa Soares         | harleysousa@protonmail.com            | https://github.com/TheHarleySousa     |
 | Helio Loureiro                 | helio@loureiro.eng.br                 | https://github.com/helioloureiro      |
 | Hemílio Lauro de Araújo Melo   | hemilioaraujo@gmail.com               | https://github.com/hemilioaraujo      |
 | Higor Carneiro Passos          | higorcpassos@gmail.com                | https://github.com/hcpassos           |
